@@ -1,4 +1,4 @@
-# sender 🃏
+# sender
 
 - Service de integração e envio de mensagens com clickatell e sftp
 
